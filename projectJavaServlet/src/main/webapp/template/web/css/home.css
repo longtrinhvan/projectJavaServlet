@@ -1,0 +1,260 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+	background-color: white;
+}
+
+a {
+	text-decoration: none;
+}
+
+.header {
+	top: 0px;
+	width: 100%;
+}
+
+.header__menu {
+	width: 100%;
+	height: 80px;
+	background-color: rgb(14, 116, 188);
+}
+
+.header__menu--new-name {
+	float: left;
+	width: 25%;
+	height: 80px;
+	background-color: rgb(14, 116, 188);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.header__menu--new-name a {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 30px;
+	background-color: transparent;
+	color: white;
+	font-weight: bolder;
+}
+
+.header__menu--category-new {
+	float: left;
+	width: 25%;
+	height: 80px;
+	background-color: transparent;
+}
+
+.header__menu--category-new a {
+	float: left;
+	width: 25%;
+	height: 80px;
+	font-size: 15px;
+	background-color: transparent;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.header__menu--search-new {
+	float: left;
+	width: 25%;
+	height: 80px;
+	background-color: transparent;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.header__menu--search-new input {
+	width: 90%;
+	height: 30px;
+	outline-style: unset;
+	float: left;
+}
+.icon-search{
+	width: 30px;
+	height: 30px;
+	background-color: white;
+}
+.header__menu--search-new i {
+	margin-top:6px;
+	margin-left:6px;
+	font-size: 17px;
+	background-color: white;
+}
+
+.header__menu--account-new {
+	float: left;
+	width: 25%;
+	height: 80px;
+	background-color: transparent;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.account {
+	float: left;
+	width: 30%;
+	height: 80px;
+	background-color: transparent;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.account i {
+	float: left;
+	background-color: transparent;
+	color: rgb(122, 197, 255);
+	margin-right: 10px;
+	font-size: 20px;
+}
+
+.account a {
+	float: left;
+	color: white;
+	background-color: transparent;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 17px;
+}
+
+.header__banner {
+	width: 100%;
+	height: 460px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.header__banner img {
+	width: 90%;
+	height: 440px;
+	border-radius: 3px;
+}
+
+.body-top {
+	margin-top: 50px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.body-top__title {
+	width: 83%;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	background-color: rgb(204, 204, 204);
+	border-radius: 3px;
+}
+
+.body-top__title a {
+	font-size: 20px;
+	background-color: transparent;
+	color: rgb(32, 109, 197);
+	font-weight: bolder;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+		Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.body-top__title i {
+	margin-left: 10px;
+	font-size: 16px;
+	background-color: transparent;
+}
+
+.body-center {
+	width: 100%;
+	height: 960px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.list-news {
+	width: 80%;
+	height: 960px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.list-news--left, .list-news--right {
+	width: 50%;
+	height: 800px;
+}
+
+.post-news {
+	width: 88%;
+	height: 180px;
+	margin-left: 6%;
+	background-color: rgb(243, 243, 243);
+	border-radius: 2px;
+	margin-bottom: 20px;
+}
+
+.pic-news {
+	float: left;
+	width: 200px;
+	height: 180px;
+	background-color: transparent;
+}
+
+.pic-news img {
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 180px;
+	height: 160px;
+	border-radius: 2px;
+	background-color: transparent;
+}
+
+.review-news {
+	float: left;
+	width: 240px;
+	height: 155px;
+	margin-left: 10px;
+	margin-top: 10px;
+	padding-top: 5px;
+	background-color: transparent;
+}
+
+.review-news--title {
+	background-color: rgb(14, 116, 188);
+	padding: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.review-news--title i {
+	background-color: transparent;
+	color: rgb(12, 46, 70);
+}
+
+.review-news a {
+	text-align: justify;
+	margin-top: 5px;
+	background-color: transparent;
+	font-size: 15px;
+	color: rgb(235, 235, 235);
+	font-family: sans-serif;
+}
+
+.review-news p {
+	text-align: justify;
+	background-color: transparent;
+	margin-top: 10px;
+	font-size: 15px;
+	color: rgb(128, 128, 128);
+}
+
+.footer {
+	width: 100%;
+	height: 200px;
+	background-color: rgb(39, 68, 13);
+}

@@ -1,0 +1,22 @@
+.insert_or_delete {
+	margin-top: 20px; 
+	height: 35px;
+	background-color: transparent;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.insert_or_delete--icon {
+	float: right;
+	width: 35px;
+	height: 35px;
+	border: 1px solid #dddddd;
+	border-radius: 3px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.insert_or_delete--icon i {
+	font-size: 17px;
+}
