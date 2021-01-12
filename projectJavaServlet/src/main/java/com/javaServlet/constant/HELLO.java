@@ -24,4 +24,16 @@ public class HELLO {
 		System.out.println();
 		System.out.println();
 	}
+	public void www() {
+		System.out.println();
+		System.out.println();
+	}
+	public void ddd() {
+		System.out.println();
+		System.out.println();
+	}
+	public void fff() {
+		System.out.println();
+		System.out.println();
+	}
 }
