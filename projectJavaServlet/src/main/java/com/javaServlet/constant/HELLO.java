@@ -5,16 +5,7 @@ public class HELLO {
 		System.out.println();
 		System.out.println();
 	}
-	public void abc1() {
-		System.out.println();
-		System.out.println();
-	}
-<<<<<<< .mine
-
-=======
-
->>>>>>> .theirs
-	public void abc() {
+		public void xxxx() {
 		System.out.println();
 		System.out.println();
 	}
