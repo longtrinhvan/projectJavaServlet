@@ -18,5 +18,10 @@ public class HELLO {
 	public void zzz() {
 		System.out.println();
 		System.out.println();
+ 		anh ơi em sửa tí!!!!
+	}
+	public void nnn() {
+		System.out.println();
+		System.out.println();
 	}
 }
