@@ -9,13 +9,10 @@ public class HELLO {
 	public void yyy() {
 		System.out.println();
 		System.out.println();
-<<<<<<< HEAD
 		ok chưa
-=======
 		System.out.println();
 		System.out.println();
 		System.out.println();
->>>>>>> 020cc674f28e60be74a65e4eeb27f9f892953300
 	}
 	public void xxx() {
 		System.out.println();
