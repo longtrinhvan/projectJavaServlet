@@ -10,6 +10,10 @@ public class HELLO {
 		System.out.println();
 		System.out.println();
 	}
+	public void xxx() {
+		System.out.println();
+		System.out.println();
+	}
 
 	public void zzz() {
 		System.out.println();
