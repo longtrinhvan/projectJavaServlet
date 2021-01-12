@@ -5,11 +5,9 @@ public class HELLO {
 		System.out.println();
 		System.out.println();
 	}
-	ccccccccccccccccccccccccc
-	aaaaaaaaaaaaaaaaaaaa
-
-
-
-	eeeeeeeeeeeeeeeeeeeeeeeee
+	public void abc1() {
+		System.out.println();
+		System.out.println();
+	}
 
 }
