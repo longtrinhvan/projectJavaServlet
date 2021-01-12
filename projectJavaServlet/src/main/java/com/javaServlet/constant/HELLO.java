@@ -19,21 +19,6 @@ public class HELLO {
 		System.out.println();
 		System.out.println();
  		anh ơi em sửa tí!!!!
-	}
-	public void nnn() {
-		System.out.println();
-		System.out.println();
-	}
-	public void www() {
-		System.out.println();
-		System.out.println();
-	}
-	public void ddd() {
-		System.out.println();
-		System.out.println();
-	}
-	public void fff() {
-		System.out.println();
-		System.out.println();
+ 		ok em eei!!
 	}
 }
