@@ -11,4 +11,8 @@ public class HELLO {
 		System.out.println();
 	}
 
+	public void zzz() {
+		System.out.println();
+		System.out.println();
+	}
 }
