@@ -7,12 +7,7 @@ public class HELLO {
 	}
 
 	public void yyy() {
-		System.out.println();
-		System.out.println();
-		ok chưa
-		System.out.println();
-		System.out.println();
-		System.out.println();
+		ok kệ anh na!!!!
 	}
 	public void xxx() {
 		System.out.println();
