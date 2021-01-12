@@ -9,7 +9,11 @@ public class HELLO {
 		System.out.println();
 		System.out.println();
 	}
+<<<<<<< .mine
 
+=======
+
+>>>>>>> .theirs
 	public void abc() {
 		System.out.println();
 		System.out.println();
