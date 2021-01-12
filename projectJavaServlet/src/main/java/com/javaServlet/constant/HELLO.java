@@ -9,6 +9,7 @@ public class HELLO {
 	public void yyy() {
 		System.out.println();
 		System.out.println();
+		ok chưa
 	}
 	public void xxx() {
 		System.out.println();
