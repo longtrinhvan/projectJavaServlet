@@ -8,6 +8,7 @@ public class HELLO {
 
 	public void yyy() {
 		ok kệ anh na!!!!
+		Ngàn lần anh yếu đuối
 	}
 	public void xxx() {
 		System.out.println();
