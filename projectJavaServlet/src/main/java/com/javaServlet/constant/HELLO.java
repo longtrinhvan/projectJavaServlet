@@ -5,17 +5,8 @@ public class HELLO {
 		System.out.println();
 		System.out.println();
 	}
-		public void xxxx() {
-		System.out.println();
-		System.out.println();
-	}
 
 	public void yyy() {
 		System.out.println();
 		System.out.println();
-<<<<<<< .mine
-
-=======
-	}
->>>>>>> .theirs
 }
