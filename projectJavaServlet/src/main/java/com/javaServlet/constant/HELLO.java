@@ -6,11 +6,8 @@ public class HELLO {
 		System.out.println();
 	}
 
-	public void xxxx() {
+	public void yyy() {
 		System.out.println();
 		System.out.println();
-<<<<<<< HEAD
 	}
-=======
->>>>>>> 1a8b3a81578a21171e42612d176c6ed235628004
 }
