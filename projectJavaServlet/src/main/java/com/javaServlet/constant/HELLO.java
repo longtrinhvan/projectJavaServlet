@@ -9,6 +9,9 @@ public class HELLO {
 	public void yyy() {
 		System.out.println();
 		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 	}
 	public void xxx() {
 		System.out.println();
